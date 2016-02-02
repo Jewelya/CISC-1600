@@ -13,7 +13,7 @@ cout << "Hello, my name is " << a << endl;
 
 string b;
 cin >> b;
-cout << "I am " << b << endl;
+cout << "I am " << b << " years old" << endl;
 
 string c;
 cin >> c;
